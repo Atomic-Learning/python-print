@@ -1,21 +1,16 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "Python: The Print Function",
+    "slug": "python-print",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "python"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "atomic-learning-python-cells"
     ],
     "related": [
-        "",
-        ""
     ]
 }
