@@ -9,7 +9,8 @@
     ],
     "duration": 2,
     "prerequisites": [
-        "atomic-learning-python-cells"
+        "atomic-learning-python-cells",
+        "programming-calling-functions"
     ],
     "related": [
     ]
